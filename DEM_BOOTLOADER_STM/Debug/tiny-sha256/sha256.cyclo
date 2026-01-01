@@ -1,0 +1,4 @@
+../tiny-sha256/sha256.c:44:6:sha256_transform	4
+../tiny-sha256/sha256.c:85:6:sha256_init	1
+../tiny-sha256/sha256.c:99:6:sha256_update	3
+../tiny-sha256/sha256.c:114:6:sha256_final	5
