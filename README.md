@@ -2,7 +2,7 @@
 
 # 
 
-# Mekatronik ve Gömülü Sistemler Mühendisliği yaklaşımıyla geliştirilmiş; \*\*şifreli\*\*, \*\*hata toleranslı\*\* ve \*\*çift slot (A/B)\*\* mimarisine sahip \*\*güvenli uzaktan yazılım güncelleme (OTA)\*\* sistemi.
+# Gömülü Sistemler ve Siber Güvenlik yaklaşımıyla geliştirilmiş; \*\*şifreli\*\*, \*\*hata toleranslı\*\* ve \*\*çift slot (A/B)\*\* mimarisine sahip \*\*güvenli uzaktan yazılım güncelleme (OTA)\*\* sistemi.
 
 # 
 
