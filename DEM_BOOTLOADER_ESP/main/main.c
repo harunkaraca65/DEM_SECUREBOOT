@@ -36,7 +36,7 @@
 /* Network Credentials (consider moving to Kconfig for production) */
 #define ESP_WIFI_SSID           "Harun_A55"
 #define ESP_WIFI_PASS           "123456789"       
-#define ESP_SERVER_BASE_URL     "http://10.208.125.71:8000"
+#define ESP_SERVER_BASE_URL     "http://xx.xxx.xxx.xx:8000"
 #define ESP_URL_FIRMWARE        ESP_SERVER_BASE_URL "/secure_app.bin"
 
 /* Hardware Pinout */
